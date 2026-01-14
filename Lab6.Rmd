@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = TRUE, eval = TRUE, error = TRUE,
 
 *For all questions, include the R commands/functions that you used to find your answer (show R chunk). Answers without supporting code will not receive credit. Write full sentences to describe your findings.*
 
-In this lab, you will explore the `who` dataset which comes with `tidyr`. Let's first load the `tidyverse` package that contains `tidyr`, `dplyr` and `ggplot2` which we will need today:
+In this lab, you will explore the `who` dataset which comes with `tidyr`. Let's first load the `tidyverse` package collection that contains `tidyr`, `dplyr` and `ggplot2` which we will need today:
 
 ```{r}
 library(tidyverse)
